@@ -15,21 +15,21 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 
 ## Schedule
 
-| Date      |  Material                                             | Book Chapter                   |
-|:---------:|:------------------------------------------------------|--------------------------------|
-| 15/09     |  Introduction [[slides]][0p]                          |        -                       | 
-| 22/09     |  Propositional Logic [[slides]][1p], [[exercises]][1e]| Sections 1.1, 1.2, 1.3         |
-| 29/09     |  Predicate Logic [[slides]][2p], [[exercises]][2e]    | Sections 1.4, 1.5              |
-| 06/10     |  Proofs [[slides]][3p], [[exercises]][3e]             | Sections 1.6, 1.7, 1.8.2, 1.8.6|
-| 13/10     |  Sets and Functions  [[slides]][4p] [[exercises]][4e] | Sections 2.1, 2.2, 2.3, 9.1    |
-| 20/10     |  Relations                                            | Chapter 9                      |
-| 27/10     |  Sequences and Summations                             | Chapter 2                      |
-| 03/11     |  Algorithms                                           | Chapter 3                      |
-| 10/11     |  Number Theory                                        | Chapter 4                      |
-| 17/11     |  Induction                                            | Chapter 5                      |
-| 24/11     |  Counting                                             | Chapter 6                      |  
-| 01/12     |  Advanced Counting                                    | Chapter 8                      |
-| 08/12     |  Probability                                          | Chapter 7                      |
+| Date      |  Material                                             | Book Chapter                    |
+|:---------:|:------------------------------------------------------|---------------------------------|
+| 15/09     |  Introduction [[slides]][0p]                          |        -                        | 
+| 22/09     |  Propositional Logic [[slides]][1p], [[exercises]][1e]| Sections 1.1, 1.2, 1.3          |
+| 29/09     |  Predicate Logic [[slides]][2p], [[exercises]][2e]    | Sections 1.4, 1.5               |
+| 06/10     |  Proofs [[slides]][3p], [[exercises]][3e]             | Sections 1.6, 1.7, 1.8.2, 1.8.6 |
+| 13/10     |  Sets and Functions  [[slides]][4p] [[exercises]][4e] | Sections 2.1, 2.2, 2.3, 9.1     |
+| 20/10     |  Relations [[slides]][5p] [[exercises]][5e]           | Sections 9.1, 9.5, 9.6, 2.4, 2.5|                      |
+| 27/10     |  Sequences and Summations                             | Chapter 2                       |
+| 03/11     |  Algorithms                                           | Chapter 3                       |
+| 10/11     |  Number Theory                                        | Chapter 4                       |
+| 17/11     |  Induction                                            | Chapter 5                       |
+| 24/11     |  Counting                                             | Chapter 6                       |  
+| 01/12     |  Advanced Counting                                    | Chapter 8                       |
+| 08/12     |  Probability                                          | Chapter 7                       |
 
 
 ## Contacts
@@ -55,3 +55,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [3e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%203
 [4p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%204
 [4e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%204
+[5p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%205
+[5e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%205
