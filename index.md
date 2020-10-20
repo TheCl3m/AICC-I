@@ -22,8 +22,8 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 29/09     |  Predicate Logic [[slides]][2p], [[exercises]][2e]                   | Sections 1.4, 1.5               |
 | 06/10     |  Proofs [[slides]][3p], [[exercises]][3e]                            | Sections 1.6, 1.7, 1.8.2, 1.8.6 |
 | 13/10     |  Sets and Functions  [[slides]][4p] [[exercises]][4e]                | Sections 2.1, 2.2, 2.3, 9.1     |
-| 20/10     |  Relations, Sequences and Summations [[slides]][5p] [[exercises]][5e]| Sections 9.1, 9.5, 9.6, 2.4, 2.5|                      |
-| 27/10     |  Algorithms                                                          | Chapter 2                       |
+| 20/10     |  Relations, Sequences and Summations [[slides]][5p] [[exercises]][5e]| Sections 9.1, 9.5, 9.6, 2.4, 2.5|   
+| 27/10     |  Algorithms [[slides]][6p]                                           | Sections 3.1                    |
 | 03/11     |  Complexity of Algorithms                                            | Chapter 3                       |
 | 10/11     |  Induction and Recursion                                             | Chapter 4                       |
 | 17/11     |  Number Theory                                                       | Chapter 5                       |
@@ -57,3 +57,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [4e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%204
 [5p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%205
 [5e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%205
+[6p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%206
+[6e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%206
