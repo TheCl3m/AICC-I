@@ -25,7 +25,7 @@ Moodle | Announcements and Class Discussions [[link](https://moodle.epfl.ch/cour
 | 20/10     |  Relations, Sequences and Summations [[slides]][5p] [[exercises]][5e]| Sections 9.1, 9.5, 9.6, 2.4, 2.5          |   
 | 27/10     |  Algorithms [[slides]][6p] [[exercises]][6e]                         | Sections 3.1.1, 3.1.2, 3.1.3, 3.1.5, 3.1.6|
 | 03/11     |  Complexity of Algorithms [[slides]][7p] [[exercises]][7e]           | Sections 3.2, 3.3.1, 3.3.2, 3.3.3, 3.3.5  |
-| 10/11     |  Induction and Recursion                                             | Chapter 4                                 |
+| 10/11     |  Induction and Recursion [[slides]][8p] [[exercises]][8e]            | Sections 5.1, 5.2.1, 5.2.2, 5.2.3, 5.3.1, 5.3.2, 5.3.3 (up to example 9), 5.3.4 (up to example 12), 5.4|
 | 17/11     |  Number Theory                                                       | Chapter 5                                 |
 | 24/11     |  Counting                                                            | Chapter 6                                 |  
 | 01/12     |  Advanced Counting                                                   | Chapter 8                                 |
@@ -61,3 +61,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [6e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%206
 [7p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%207
 [7e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%207
+[8p]: https://github.com/LSIR/AICC-I/blob/master/Lectures/Week%208
+[8e]: https://github.com/LSIR/AICC-I/blob/master/Exercises/Week%208
